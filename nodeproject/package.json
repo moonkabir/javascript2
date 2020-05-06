@@ -1,0 +1,14 @@
+{
+  "name": "my_first_node_project",
+  "version": "1.0.0",
+  "description": "node project with express",
+  "main": "index.js",
+  "author": "Moon Kabir",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}

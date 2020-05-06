@@ -1,0 +1,11 @@
+var i="01521217040";
+var changed=i.replace(/1/g,"a");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+var changed=changed.replace(/2/g,"b");
+console.log(changed);
